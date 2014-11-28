@@ -1,0 +1,28 @@
+{
+  "name": "rules-loader",
+  "main": [
+    "dist/rules-loader.js",
+    "dist/rules-loader.min.js"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/kristianmandrup/rules-loader",
+  "authors": [
+    "Kristian Mandrup <kmandrup@gmail.com>"
+  ],
+  "description": "Rules loader and processor",
+  "keywords": [
+    "authorize",
+    "rules",
+    "loader",
+    "processor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
