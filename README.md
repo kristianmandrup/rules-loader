@@ -1,5 +1,7 @@
 # Rules loader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/rules-loader.svg)](https://greenkeeper.io/)
+
 Can load and process rules from any JSON source, such as from a JSON file a JSON data store or just a regular
 javascript Object transformed to JSON via `JSON.parse(obj)`.
 
